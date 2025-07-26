@@ -1,0 +1,16 @@
+{
+  "users": {
+    "user1": {
+      "id": "=oVWEAAAAAgA7fGxxqOn4KPAAEwrBcZAAEDWVTzAJ7EyAAAqEXhzpti+MbskPm5+W29T6dIzrMlBeUIN9elS6KxH8wGwPUAPGbRjK4XP34FxIc4wNEcMx9C9uaFYuGn6J6ZckBnXKQk6Dm+briW7nrcVEEpyRdJy/OFBE3qP34QHbfLbPHIsmg/fgdhxnTXPKSU0n91Ji4hEf1KSaqDAdtHAuCA4jW+L0BAAAYRAhAgAGRr1mTAAAoFW6dT/",
+      "expiry": "2025-07-27 14:21"
+    },
+    "user2": {
+      "id": "u0_a222",
+      "expiry": "2025-07-30 17:00"
+    },
+    "user3": {
+      "id": "u0_a444",
+      "expiry": "2025-07-31 08:55"
+    }
+  }
+}
